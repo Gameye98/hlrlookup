@@ -33,10 +33,12 @@ HLR     : JAKARTA, Indonesia
 $ sudo apt-get update && sudo apt-get upgrade -y
 $ sudo apt-get install python3 git
 $ git clone https://github.com/Gameye98/hlrlookup
+$ python3 hlrlookup.py 08xxxxxxx
 ```
 - For Termux
 ```bash
 $ apt update && apt upgrade -y
 $ apt install python git
 $ git clone https://github.com/Gameye98/hlrlookup
+$ python hlrlookup.py 08xxxxxxx
 ```
